@@ -1,3 +1,6 @@
 .env
 *.json
-__pycache__/*
+*/__pycache__/*
+node_modules
+# add *.bin to ignore binary files
+*.bin
